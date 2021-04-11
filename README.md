@@ -1,1 +1,1 @@
-# GamePackageRes
+# Game Res Template
